@@ -154,6 +154,37 @@ const dictonnaries = {
       "yesterday": "Вчера"
     }
   },
+   "br": {
+    "reset": "Reiniciar Período",
+    "submit": "Enviar",
+    "previousMonth": "Mês Anterior",
+    "nextMonth": "Próximo Mês",
+    "previousYear": "Ano Anterior",
+    "nextYear": "Próxio Ano",
+    "quarter": "Trimestre",
+    "panels": {
+      "range": "Período",
+      "week": "Semanal",
+      "month": "Mensal",
+      "quarter": "Trimestral",
+      "year": "Anual"
+    },
+    "presets": {
+      "custom": "Período personalizado"
+      "forever": "Desde o ínicio",
+      "last7days": "Últimos 7 dias",
+      "last30days": "Últimos 30 dias",
+      "last90days": "Últimos 90 dias",
+      "last365days": "Últimos 365 dias",
+      "next365days": "Próximos 365 dias",
+      "next90days": "Próximos 90 dias",
+      "next30days": "Próximos 30 dias",
+      "next7days": "Próximos 7 dias",
+      "today": "Hoje",
+      "tomorrow": "Amanha",
+      "yesterday": "Ontem"
+    }
+  },
 }
 
 export default dictonnaries
